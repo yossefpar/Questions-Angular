@@ -1,0 +1,187 @@
+{
+  "questions": [{
+
+      "questionText": "what is min ! in html",
+      "options": [{
+        "text":"upside down",
+        "correct": true
+      },
+      {
+        "text":"Be careful not to make changes"
+      },
+      {
+        "text":"Important code"
+      },
+      {
+        "text":"User warning"
+      }],
+      "explanation": "its not Related whit ?"
+    },
+    {
+      "questionText": "Angular Is this language related to the user view? Or is it to communicate with the database. ",
+      "options": [{
+        "text":"This is selectable when initializing the project."
+      },
+      {
+        "text":"Angular is purely for user view."
+      },
+      {
+        "text":"There are many options in Angular, but it is not possible without another language to access the database."
+      },
+      {
+        "text":"Angular is not a language but a method of writing code that uses different languages ​​together.",
+        "correct": true
+      }],
+      "explanation": "Think carefully before answering, if you don't succeed, go back and try again, you won't lose points for it"
+    },
+    {
+      "questionText": "question3",
+      "options": [{
+        "text":"1.3"
+      },
+      {
+        "text":"2",
+        "correct": true
+      },
+      {
+        "text":"3"
+      },
+      {
+        "text":"4"
+      }],
+      "explanation": "Explent"
+    },
+    {
+      "questionText": "question4",
+      "options": [{
+        "text":"1.4"
+      },
+      {
+        "text":"2"
+      },
+      {
+        "text":"3"
+      },
+      {
+        "text":"4",
+        "correct": true
+      }
+    ],
+      "explanation": "Explent4"
+
+    },
+    {
+      "questionText": "question5",
+      "options": [{
+        "text":"1"
+      },
+      {
+        "text":"2"
+      },
+      {
+        "text":"3"
+      },
+      {
+        "text":"4",
+        "correct": true
+      }
+    ],
+      "explanation": "Explent"
+
+    },
+    {
+      "questionText": "question",
+      "options": [{
+        "text":"1"
+      },
+      {
+        "text":"2"
+      },
+      {
+        "text":"3"
+      },
+      {
+        "text":"4",
+        "correct": true
+      }
+    ],
+      "explanation": "Explent"
+
+    },
+    {
+      "questionText": "question",
+      "options": [{
+        "text":"1",
+        "correct": true
+      },
+      {
+        "text":"2"
+      },
+      {
+        "text":"3"
+      },
+      {
+        "text":"4"
+      }
+    ],
+      "explanation": "Explent"
+
+    },
+    {
+      "questionText": "question",
+      "options": [{
+        "text":"1"
+      },
+      {
+        "text":"2"
+      },
+      {
+        "text":"3",
+        "correct": true
+      },
+      {
+        "text":"4"
+      }
+    ],
+      "explanation": "Explent"
+
+    },
+    {
+      "questionText": "question",
+      "options": [{
+        "text":"1"
+      },
+      {
+        "text":"2"
+      },
+      {
+        "text":"3"
+      },
+      {
+        "text":"4",
+        "correct": true
+      }
+    ],
+      "explanation": "Explent"
+    },
+    {
+    "questionText": "question",
+    "options": [{
+      "text":"1"
+    },
+    {
+      "text":"2"
+    },
+    {
+      "text":"3"
+    },
+    {
+      "text":"4",
+      "correct": true
+    }
+  ],
+    "explanation": "Explent"
+    }
+  ]
+}
+
